@@ -1,0 +1,30 @@
+{
+  "name": "supabase-smoothies",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.9.3",
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.16",
+    "autoprefixer": "10.4.16",
+    "eslint": "8.54.0",
+    "eslint-config-next": "14.0.3",
+    "next": "14.0.3",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.5",
+    "typescript": "5.3.2"
+  },
+  "description": "��#\u0000 \u0000S\u0000u\u0000p\u0000a\u0000b\u0000a\u0000s\u0000e\u0000-\u0000S\u0000m\u0000o\u0000o\u0000t\u0000h\u0000i\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
